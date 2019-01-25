@@ -51,3 +51,7 @@ public static void printCards(ElevensBoard board) {
   * e. Which one of the methods that you identified in question 4b above needs to call the `cardIndexes` method before calling the `containsPairSum11` and `containsJQK` methods? Why?
 
       * anotherPlayIsPossible(), because it needs to check if no cards remain on the board - another play is not possible, but the game has been won
+
+## Feedback
+Very good
+20/20
